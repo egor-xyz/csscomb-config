@@ -1,0 +1,17 @@
+{
+  "name": "@egor.xyz/csscomb-config",
+  "description": "CSSComb config",
+  "author": "Egor Stronhin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/egor-xyz/csscomb-config",
+  "keywords": [
+    "csscomb",
+    "plugin",
+    "linter"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
